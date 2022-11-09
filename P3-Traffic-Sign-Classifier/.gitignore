@@ -1,0 +1,10 @@
+.model
+
+checkpoint
+*.ipynb_checkpoints
+*.h5
+
+*.swp
+*.p
+
+
